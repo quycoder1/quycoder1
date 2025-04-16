@@ -1,12 +1,13 @@
 # Hi, I’m Trần Đức Quý — aka "Quý IT"!
-
+![GitHub stars](https://img.shields.io/github/stars/quycoder1/quycoder1?style=tokyonight)
+---
 Hey there! I’m a Gen Z coder from Vietnam who’s into OS hopping, low-end machines, and doing cool stuff with Python and C++. I love exploring the internals of systems and building things from scratch — even on a 4GB RAM Celeron laptop.
 
 ## About Me
 
 - 🧠 Passionate about Linux — especially **Arch Linux** (yeah, I use Arch btw)
 - ⚙️ Tweak configs, break systems, fix them, and call it "learning"
-- 💻 Mainly work with **Python** and **C++** — also doing some Arduino stuff
+- 💻 Mainly work with **Python** and **C++**
 - 🧪 Currently playing around with ideas like writing **Tailwind-style CSS with Python**
 - 🌀 Still switching between **Windows 11** and **Pop!\_OS**, because… curiosity!
 
@@ -14,7 +15,7 @@ Hey there! I’m a Gen Z coder from Vietnam who’s into OS hopping, low-end mac
 
 - **Languages:** Python, C++, Bash  
 - **OSes I love:** Arch Linux, Pop!_OS, Windows 11  
-- **Tools:** VS Code, nano (yes, nano), Arduino IDE  
+- **Tools:** VS Code, neovim (yes, neovim)
 - **Web Dev:** Flask, FastAPI, and experimenting with TailwindCSS in Python
 
 ## Current Goals

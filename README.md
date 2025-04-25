@@ -13,15 +13,14 @@ Hey there! I’m a Gen Z coder from Vietnam who’s into OS hopping, low-end mac
 
 ## Tech Stack
 
-- **Languages:** Python, C++, Bash  
+- **Languages:** Python, C++, Bash  and JS/JSX (React.js)
 - **OSes I love:** Arch Linux, Pop!_OS, Windows 11  
 - **Tools:** VS Code, neovim (yes, neovim)
-- **Web Dev:** Flask, FastAPI, and experimenting with TailwindCSS in Python
+- **Web Dev:** Flask, FastAPI, and React
 
 ## Current Goals
 
-- Build a tool that generates Tailwind classes using Python  
-- Create a fast, clean, and minimal Linux desktop setup that works even on potato PCs  
+- Learn React and React Native for improving my skills
 - Learn advanced C++ and use it to level up my projects
 
 ## A little more about me
@@ -29,9 +28,6 @@ Hey there! I’m a Gen Z coder from Vietnam who’s into OS hopping, low-end mac
 - I watch Backrooms lore for fun  
 - I reinstall OSes when I’m bored  
 - I don’t back up my system — I fix things by breaking them first
-## here's my website!
-- [Go to website](https://quydev.serveo.net) (sometimes I tunning off the server to update, so...)
----
 
 > "If it breaks, I learn. If it doesn’t, I tweak it until it does."
 
